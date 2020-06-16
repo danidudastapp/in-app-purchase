@@ -73,7 +73,7 @@ iap.config({
     facebookAppSecret: 'cafebabedeadbeefabcdef0123456789',
 
     /* Configurations all platforms */
-    test: true, // For Apple and Googl Play to force Sandbox validation only
+    test: true, // For Apple and Google Play to force Sandbox validation only
     verbose: true // Output debug logs to stdout stream
 });
 iap.setup()
